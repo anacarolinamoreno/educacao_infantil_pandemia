@@ -1,6 +1,6 @@
 # The impact of the pandemic on early childhood education in São Paulo, Brazil
 
-## Code used to analyse data and create data visualization for a special news series that aired on November 2022 on TV Globo (SP1 news program) and G1 (TV Globo's news website).
+### Code used to analyse data and create data visualization for a special news series that aired on November 2022 on TV Globo (SP1 news program) and G1 (TV Globo's news website).
 
 Part 1 - Schoos: https://g1.globo.com/sp/sao-paulo/educacao/noticia/2022/11/16/fuga-de-matriculas-tirou-quase-16-mil-vagas-do-ensino-infantil-so-na-cidade-de-sao-paulo.ghtml
 
